@@ -110,3 +110,5 @@ export default {
 
 ## 感谢
 创作感谢 [maoyl](https://github.com/maoyl/el-form-design) 提供基础版本
+
+感谢[Sky154/el-form-design: 表单在线设计 (github.com)](https://github.com/Sky154/el-form-design)提供加深版
